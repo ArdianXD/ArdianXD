@@ -2,7 +2,7 @@
 If you're here it means you're lost
 *************************************
 
-Here's some cats (not mine) <br>
+Here look at some cats (not mine) <br>
 https://imgur.com/gallery/Jfni3
 
 <!---
