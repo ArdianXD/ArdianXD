@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ArdianXD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*************************************
+If you're here it means you're lost
+*************************************
+
+Here's some cats (not mine)
+https://imgur.com/gallery/Jfni3
 
 <!---
 ArdianXD/ArdianXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
