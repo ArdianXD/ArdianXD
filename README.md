@@ -1,5 +1,5 @@
 *************************************
-If you're here it means you're lost
+If you're here, then you're lost
 *************************************
 
 Here look at some cats (not mine) <br>
